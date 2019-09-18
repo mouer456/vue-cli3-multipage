@@ -1,4 +1,4 @@
-# vue-cli3-multipage 2019-09-18 21:33:18
+# vue-cli3-multipage
 
 ## Project setup
 ```
